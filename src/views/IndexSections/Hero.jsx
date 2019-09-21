@@ -51,7 +51,7 @@ class Hero extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <p className="lead text-white">
-                      A beautiful Design System for Bootstrap 4. Parshant Arora.
+                     Parshant Arora. 
                     </p>
                     <div className="btn-wrapper mt-5">
                       <Button
