@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ParshantAroras.github.io/precache-manifest.29ffbb0f91a2b5fa0167723a453bf75b.js"
+  "/ParshantAroras.github.io/precache-manifest.df762fbab340cedf24bf162be90d61ad.js"
 );
 
 self.addEventListener('message', (event) => {
