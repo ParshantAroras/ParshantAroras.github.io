@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ParshantAroras.github.io/static/css/main.8709de30.chunk.css",
+    "main.js": "/ParshantAroras.github.io/static/js/main.a70936b5.chunk.js",
+    "main.js.map": "/ParshantAroras.github.io/static/js/main.a70936b5.chunk.js.map",
+    "runtime~main.js": "/ParshantAroras.github.io/static/js/runtime~main.e5e8fede.js",
+    "runtime~main.js.map": "/ParshantAroras.github.io/static/js/runtime~main.e5e8fede.js.map",
+    "static/js/2.13ee78f6.chunk.js": "/ParshantAroras.github.io/static/js/2.13ee78f6.chunk.js",
+    "static/js/2.13ee78f6.chunk.js.map": "/ParshantAroras.github.io/static/js/2.13ee78f6.chunk.js.map",
+    "index.html": "/ParshantAroras.github.io/index.html",
+    "precache-manifest.6b71db8a8185b0c7be286988139c8cbb.js": "/ParshantAroras.github.io/precache-manifest.6b71db8a8185b0c7be286988139c8cbb.js",
+    "service-worker.js": "/ParshantAroras.github.io/service-worker.js",
+    "static/css/main.8709de30.chunk.css.map": "/ParshantAroras.github.io/static/css/main.8709de30.chunk.css.map",
+    "static/media/argon-react-white.png": "/ParshantAroras.github.io/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/ParshantAroras.github.io/static/media/argon-react.f38ddea9.png",
+    "static/media/creativetim-white-slim.png": "/ParshantAroras.github.io/static/media/creativetim-white-slim.f7cb2d39.png",
+    "static/media/font-awesome.min.css": "/ParshantAroras.github.io/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/ParshantAroras.github.io/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/ParshantAroras.github.io/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/ParshantAroras.github.io/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/ParshantAroras.github.io/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/ParshantAroras.github.io/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/ParshantAroras.github.io/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/ParshantAroras.github.io/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/ParshantAroras.github.io/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/ParshantAroras.github.io/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/ParshantAroras.github.io/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/ParshantAroras.github.io/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/ParshantAroras.github.io/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/ParshantAroras.github.io/static/media/team-4-800x800.23007132.jpg"
+  }
+}
