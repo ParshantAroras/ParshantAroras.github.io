@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54db1ba4c49bf07ce146ba359038fa9b",
+    "revision": "5d221985f311c38754b427d6e830370b",
     "url": "/ParshantAroras.github.io/index.html"
   },
   {
-    "revision": "37e821ffffaaf8b311e6",
+    "revision": "f5d86c556be3ab3c581f",
     "url": "/ParshantAroras.github.io/static/css/main.8709de30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ParshantAroras.github.io/static/js/2.13ee78f6.chunk.js"
   },
   {
-    "revision": "37e821ffffaaf8b311e6",
-    "url": "/ParshantAroras.github.io/static/js/main.a70936b5.chunk.js"
+    "revision": "f5d86c556be3ab3c581f",
+    "url": "/ParshantAroras.github.io/static/js/main.c11be778.chunk.js"
   },
   {
     "revision": "822b2eca6fb0df44914f",
