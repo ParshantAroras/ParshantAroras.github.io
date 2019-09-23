@@ -708,7 +708,14 @@ class Landing extends React.Component {
                         href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
                         size="lg"
                       >
-                        Download React
+                         <a
+                        href="https://www.creative-tim.com/product/vue-argon-design-system?ref=adsr-landing-page"
+                        id="tooltip265846671"
+                        target="_blank"
+                      >
+                         Download React
+                      </a>
+                       
                       </Button>
                     </Col>
                   </Row>

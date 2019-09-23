@@ -28,53 +28,36 @@ class Icons extends React.Component {
           <Container>
             <Row className="justify-content-center">
               <Col className="text-center" lg="8">
-                <h2 className="display-3">Nucleo Icons</h2>
+                <h2 className="display-3">About Me</h2>
                 <p className="lead">
-                  The official package contains over 21.000 icons which are
-                  looking great in combination with Argon Design System. Make
-                  sure you check all of them and use those that you like the
-                  most.
-                </p>
+                I am a Full Stack JavaScript Developer. My Skill set includes working in React Native , Redux,  React , Ecma Script ( ES6 and ES5, Ionic 1, Angular 1, Angular 2, Angular 5 and Angular 6, Node Js, Meteor , Hapi , Express , Mongodb , MySql.
+. As a developer, I have rich experience about mobile , web " front end " of development with over 4+ years of experience in development.Understanding Problems/Ideas and provide the best solutions to it . My experience in Web and mobile apps development stands from user - friendly consumer apps to game changing enterprise B2B2C apps. I am capable of assisting my clients with entire development cycle starting from requirements gathering, application GUI, application front-end and back-end development. I have developed simple to complex mobile and web  application using React-native , React Js and MEAN development stacks. 
+               </p>
                 <div className="btn-wrapper">
-                  <Button
-                    color="primary"
-                    href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/icons?ref=adsr-landing-page"
-                  >
-                    View demo icons
-                  </Button>
-                  <Button
-                    className="mt-3 mt-md-0"
-                    color="default"
-                    href="https://nucleoapp.com/?ref=1712"
-                    target="_blank"
-                  >
-                    View all icons
-                  </Button>
+                <Button
+                        className="btn-white btn-icon mb-3 mb-sm-0"
+                        color="default"
+                        // href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
+                        size="lg"
+                      >
+                      <a
+                          // className="btn-white btn-icon mb-3 mb-sm-0"
+                        href="https://www.creative-tim.com/product/vue-argon-design-system?ref=adsr-landing-page"
+                        id="tooltip265846671"
+                        target="_blank"
+                      >
+                     <span className="btn-inner--icon mr-1">
+                          <i className="ni ni-cloud-download-95" />
+                        </span>
+                        <span className="btn-inner--text">Download CV</span>
+
+                      </a>
+                      
+                      </Button>{" "}
                 </div>
               </Col>
             </Row>
-            <div className="blur--hover">
-              <a href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/icons?ref=adsr-landing-page">
-                <div className="icons-container blur-item mt-5 on-screen">
-                  <i className="icon ni ni-diamond" />
-                  <i className="icon icon-sm ni ni-album-2" />
-                  <i className="icon icon-sm ni ni-app" />
-                  <i className="icon icon-sm ni ni-atom" />
-                  <i className="icon ni ni-bag-17" />
-                  <i className="icon ni ni-bell-55" />
-                  <i className="icon ni ni-credit-card" />
-                  <i className="icon icon-sm ni ni-briefcase-24" />
-                  <i className="icon icon-sm ni ni-building" />
-                  <i className="icon icon-sm ni ni-button-play" />
-                  <i className="icon ni ni-calendar-grid-58" />
-                  <i className="icon ni ni-camera-compact" />
-                  <i className="icon ni ni-chart-bar-32" />
-                </div>
-                <span className="blur-hidden h5 text-success">
-                  Eplore all the 21.000+ Nucleo Icons
-                </span>
-              </a>
-            </div>
+           
           </Container>
         </section>
       </>

@@ -22,17 +22,25 @@ import { Button, Container, Row, Col, UncontrolledCarousel } from "reactstrap";
 
 const items = [
   {
-    src: require("assets/img/theme/img-1-1200x1000.jpg"),
+    src: require("assets/img/Parshant/34983583_1843478769288814_5354803802601947136_n.jpg"),
     altText: "",
     caption: "",
     header: ""
   },
   {
-    src: require("assets/img/theme/img-2-1200x1000.jpg"),
+    src: require("assets/img/Parshant/32744655_1741134199266171_6675808775028342784_n.jpg"),
+    altText: "",
+    caption: "",
+    header: ""
+  },
+  {
+    src: require("assets/img/Parshant/23498835_612150585842616_2070412233694773248_n.jpg"),
     altText: "",
     caption: "",
     header: ""
   }
+
+  
 ];
 
 class Carousel extends React.Component {
@@ -51,21 +59,31 @@ class Carousel extends React.Component {
           <Container className="py-md">
             <Row className="justify-content-between align-items-center">
               <Col className="mb-5 mb-lg-0" lg="5">
-                <h1 className="text-white font-weight-light">
-                  Bootstrap carousel
+                <h1 className="display-3 text-white">
+                  Contact Details
                 </h1>
-                <p className="lead text-white mt-4">
-                  Argon Design System comes with four pre-built pages to help
-                  you get started faster. You can change the text and images and
-                  you're good to go.
+                <p className="text-white mt-2">
+                Parshant Nagpal  </p>
+                <p className="text-white mt-2">
+                #2440</p>
+                <p className="text-white mt-2">
+                Sector 71</p>
+                <p className="text-white mt-2">
+                SAS Nagar, Mohali, 160071</p>
+                <p className="text-white mt-2">
+                Punjab</p>
+                <p className="text-white mt-2">
+                +919041908802, +917707904794</p>
+                <p className="text-white mt-2">
+                nagpal.parshant8@gmail.com
                 </p>
-                <Button
+                {/* <Button
                   className="btn-white mt-4"
                   color="default"
                   href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
                 >
                   See all components
-                </Button>
+                </Button> */}
               </Col>
               <Col className="mb-lg-auto" lg="6">
                 <div className="rounded shadow-lg overflow-hidden transform-perspective-right">

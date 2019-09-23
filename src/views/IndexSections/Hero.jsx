@@ -43,18 +43,21 @@ class Hero extends React.Component {
             <Container className="shape-container d-flex align-items-center py-lg">
               <div className="col px-0">
                 <Row className="align-items-center justify-content-center">
-                  <Col className="text-center" lg="6">
-                    <img
+                  <Col className="text-center" lg="10">
+                    {/* <img
                       alt="..."
                       className="img-fluid"
                       src={require("assets/img/brand/argon-react-white.png")}
                       style={{ width: "200px" }}
-                    />
+                    /> */}
+                    <p className="display-3 text-white">
+                    I am Parshant Arora. 
+                    </p>
                     <p className="lead text-white">
-                     Parshant Arora. 
+                    I am FullStack Developer having experience in React, React-Native, Node, AndularJS, Ionic, Cordova,React-Native-Navigation,Redux,Socket IO , AWS Amlify, ChatBot, Express, Hapi, MongoDB, MySql, Java. 
                     </p>
                     <div className="btn-wrapper mt-5">
-                      <Button
+                      {/* <Button
                         className="btn-white btn-icon mb-3 mb-sm-0"
                         color="default"
                         href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
@@ -64,8 +67,8 @@ class Hero extends React.Component {
                           <i className="ni ni-cloud-download-95" />
                         </span>
                         <span className="btn-inner--text">Download React</span>
-                      </Button>{" "}
-                      <Button
+                      </Button>{" "} */}
+                      {/* <Button
                         className="btn-icon mb-3 mb-sm-0"
                         color="github"
                         href="https://github.com/creativetimofficial/argon-design-system-react"
@@ -79,9 +82,9 @@ class Hero extends React.Component {
                           <span className="text-warning mr-1">Star us</span>
                           on Github
                         </span>
-                      </Button>
+                      </Button> */}
                     </div>
-                    <div className="mt-5">
+                    {/* <div className="mt-5">
                       <small className="text-white font-weight-bold mb-0 mr-2">
                         *proudly coded by
                       </small>
@@ -91,7 +94,7 @@ class Hero extends React.Component {
                         style={{ height: "28px" }}
                         src={require("assets/img/brand/creativetim-white-slim.png")}
                       />
-                    </div>
+                    </div> */}
                   </Col>
                 </Row>
               </div>

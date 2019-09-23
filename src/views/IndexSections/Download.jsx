@@ -52,7 +52,7 @@ class Download extends React.Component {
                 </div>
                 <div className="text-center">
                   <h4 className="display-4 mb-5 mt-5">
-                    Available on these technologies
+                   Experience in the following technologies
                   </h4>
                   <Row className="justify-content-center">
                     <Col lg="2" xs="4">
@@ -64,7 +64,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg"
+                          src={require("assets/img/skills/reactnative.png")}
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip255035741">
@@ -80,7 +80,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg"
+                          src={require("assets/img/skills/1200px-Node.js_logo.svg.png")}
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip265846671">
@@ -103,6 +103,23 @@ class Download extends React.Component {
                         Angular - One framework. Mobile & Desktop
                       </UncontrolledTooltip>
                     </Col>
+                   
+                    <Col lg="2" xs="4">
+                      <a
+                        href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
+                        id="tooltip76119384"
+                        target="_blank"
+                      >
+                        <img
+                          alt="..."
+                          className="img-fluid"
+                          src={require("assets/img/skills/1200px-Ionic-logo-landscape.svg.png")}
+                        />
+                      </a>
+                      <UncontrolledTooltip delay={0} target="tooltip76119384">
+                        Sketch - Digital design toolkit
+                      </UncontrolledTooltip>
+                    </Col>
                     <Col lg="2" xs="4">
                       <a
                         href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
@@ -118,39 +135,6 @@ class Download extends React.Component {
                       <UncontrolledTooltip delay={0} target="tooltip308866163">
                         React - A JavaScript library for building user
                         interfaces
-                      </UncontrolledTooltip>
-                    </Col>
-                    <Col lg="2" xs="4">
-                      <a
-                        href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
-                        id="tooltip76119384"
-                        target="_blank"
-                      >
-                        <img
-                          alt="..."
-                          className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg"
-                        />
-                      </a>
-                      <UncontrolledTooltip delay={0} target="tooltip76119384">
-                        Sketch - Digital design toolkit
-                      </UncontrolledTooltip>
-                    </Col>
-                    <Col lg="2" xs="4">
-                      <a
-                        href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
-                        id="tooltip646643508"
-                        target="_blank"
-                      >
-                        <img
-                          alt="..."
-                          className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg"
-                        />
-                      </a>
-                      <UncontrolledTooltip delay={0} target="tooltip646643508">
-                        Adobe Photoshop - Software for digital images
-                        manipulation
                       </UncontrolledTooltip>
                     </Col>
                   </Row>

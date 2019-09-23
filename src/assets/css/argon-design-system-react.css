@@ -11582,3 +11582,8 @@ td.rdtYear:hover {
   margin-bottom: 0;
   flex: 1 1 auto;
   width: 1%; }
+
+.largerBold {
+  font: 50;
+ font-weight: '500'
+}
