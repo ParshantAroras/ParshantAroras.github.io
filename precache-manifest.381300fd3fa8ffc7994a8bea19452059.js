@@ -1,23 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea22d41bf24df7da3816d4ccba406672",
+    "revision": "914f8ad6e7c33a7299023162051564a2",
     "url": "/ParshantAroras.github.io/index.html"
   },
   {
-    "revision": "e3f017b194154070c7d7",
-    "url": "/ParshantAroras.github.io/static/css/main.8709de30.chunk.css"
+    "revision": "2343b569d99419fd3dfa",
+    "url": "/ParshantAroras.github.io/static/css/main.9b88f9dd.chunk.css"
   },
   {
-    "revision": "b83ed1ef2bd0834967c5",
-    "url": "/ParshantAroras.github.io/static/js/2.1b80bdac.chunk.js"
+    "revision": "367aa4ec824768b41300",
+    "url": "/ParshantAroras.github.io/static/js/2.7cddb757.chunk.js"
   },
   {
-    "revision": "e3f017b194154070c7d7",
-    "url": "/ParshantAroras.github.io/static/js/main.fd1fd883.chunk.js"
+    "revision": "2343b569d99419fd3dfa",
+    "url": "/ParshantAroras.github.io/static/js/main.dbc6ccd1.chunk.js"
   },
   {
     "revision": "822b2eca6fb0df44914f",
     "url": "/ParshantAroras.github.io/static/js/runtime~main.e5e8fede.js"
+  },
+  {
+    "revision": "dd175a4ab750e73f4444a9805d33a157",
+    "url": "/ParshantAroras.github.io/static/media/1200px-Ionic-logo-landscape.svg.dd175a4a.png"
+  },
+  {
+    "revision": "270f55fffea36219b66a63fbe03ff497",
+    "url": "/ParshantAroras.github.io/static/media/1200px-Node.js_logo.svg.270f55ff.png"
+  },
+  {
+    "revision": "3cc5853e53850c8a101687e59e4345cb",
+    "url": "/ParshantAroras.github.io/static/media/23498835_612150585842616_2070412233694773248_n.3cc5853e.jpg"
+  },
+  {
+    "revision": "72e39eff08a6bbc06d04c01d3054201f",
+    "url": "/ParshantAroras.github.io/static/media/32744655_1741134199266171_6675808775028342784_n.72e39eff.jpg"
+  },
+  {
+    "revision": "117eafaac20956d322e3ee6eae40c845",
+    "url": "/ParshantAroras.github.io/static/media/34983583_1843478769288814_5354803802601947136_n.117eafaa.jpg"
   },
   {
     "revision": "275a2629582aa2af3469364c6748cf38",
@@ -26,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f38ddea9dedadea03c5d43c596dac13f",
     "url": "/ParshantAroras.github.io/static/media/argon-react.f38ddea9.png"
-  },
-  {
-    "revision": "f7cb2d390498c2969b2b1050f3e024ce",
-    "url": "/ParshantAroras.github.io/static/media/creativetim-white-slim.f7cb2d39.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -66,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e7c70dc7d471d845aeed9e9bead0fe5",
     "url": "/ParshantAroras.github.io/static/media/img-1-1200x1000.1e7c70dc.jpg"
-  },
-  {
-    "revision": "ba449a0697388668ef05e043ffdeafca",
-    "url": "/ParshantAroras.github.io/static/media/img-2-1200x1000.ba449a06.jpg"
   },
   {
     "revision": "0ec264785c9b6efbed2651d84105f436",
